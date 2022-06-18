@@ -1,0 +1,12 @@
+.nav-item {
+    font-family: serif;
+}
+
+.navbar-brand {
+    font-family: serif;
+    font-weight: 500;
+}
+
+.navbar-toggler-icon {
+    font-size: 1rem;
+}
